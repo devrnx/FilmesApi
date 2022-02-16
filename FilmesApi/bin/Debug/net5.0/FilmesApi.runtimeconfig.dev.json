@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\renna\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\renna\\.nuget\\packages"
+    ]
+  }
+}
